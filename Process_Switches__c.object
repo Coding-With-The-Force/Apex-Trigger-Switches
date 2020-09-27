@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customSettingsType>Hierarchy</customSettingsType>
+    <enableFeeds>false</enableFeeds>
+    <fields>
+        <fullName>Account_Process_Bypass__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>This allows you to bypass the trigger logic</description>
+        <externalId>false</externalId>
+        <inlineHelpText>This allows you to bypass the trigger logic</inlineHelpText>
+        <label>Account Process Bypass</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <label>Process Switches</label>
+    <visibility>Public</visibility>
+</CustomObject>
